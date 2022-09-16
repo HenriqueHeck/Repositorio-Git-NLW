@@ -1,13 +1,23 @@
-# NLW eSports - Trilha Explores
+# NLW eSports 🚀
 
-Projeto desenvivido no evento Next Level Week da Rocketseat
+![preview](./.github/preview.png)
 
-##Tecnologias
 
-- HTML
+> Trilha Explorer 
+
+Projeto construído no evento Next Level Week da Rocketseat!!!
+
+[Clique aqui para acessar](https://HenriqueHeck.github.io/Repositorio-Git-NLW/) 🔗
+
+
+
+## 🛠 Tecnlogias
+
+- HTML 
 - CSS
 - Git e Github
 
-## Contato
+## ✉ Contato
 
 heckhenrique@gmail.com
+
