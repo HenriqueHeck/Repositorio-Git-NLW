@@ -7,11 +7,11 @@
 
 Projeto construído no evento Next Level Week da Rocketseat!!!
 
-[Clique aqui para acessar](https://HenriqueHeck.github.io/Repositorio-Git-NLW/) 🔗
+[Clique aqui para acessar](https://HenriqueHeck.github.io/nlw_Explorer/) 🔗
 
 
 
-## 🛠 Tecnlogias
+## 🛠 Tecnologias Utilizadas
 
 - HTML 
 - CSS
