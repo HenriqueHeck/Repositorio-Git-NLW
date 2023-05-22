@@ -7,7 +7,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat!!!
 
-[Clique aqui para acessar](https://HenriqueHeck.github.io/nlw_Explorer/) 🔗
+[Clique aqui para acessar](https://HenriqueHeck.github.io/nlw_eSports_2022_Explorer/) 🔗
 
 
 
